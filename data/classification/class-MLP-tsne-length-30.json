@@ -1,0 +1,11 @@
+{"alpha": 0.9, "train_mean": 0.5933795227097768, "train_median": 0.596612779060816, "train_std": 0.004525616152948112, "test_mean": 0.5917241379310345, "test_median": 0.593103448275862, "test_std": 0.01013581962530968}
+{"alpha": 0.9, "train_mean": 0.596612779060816, "train_median": 0.596612779060816, "train_std": 0.0, "test_mean": 0.6, "test_median": 0.6, "test_std": 0.0}
+
+{"alpha": 0.9, "train_mean": 0.5961508852963819, "train_median": 0.596612779060816, "train_std": 0.002155504234026159, "test_mean": 0.5820689655172414, "test_median": 0.6, "test_std": 0.0430910326946574}
+{"alpha": 0.9, "train_mean": 0.5953810623556581, "train_median": 0.596612779060816, "train_std": 0.006615104252175783, "test_mean": 0.5889655172413792, "test_median": 0.6, "test_std": 0.026024775536707883}
+{"alpha": 0.9, "train_mean": 0.5941493456505004, "train_median": 0.596612779060816, "train_std": 0.005623397187913684, "test_mean": 0.5724137931034482, "test_median": 0.5655172413793104, "test_std": 0.023488808780588132}
+{"alpha": 0.9, "train_mean": 0.5964588144726714, "train_median": 0.596612779060816, "train_std": 0.0017144770940200232, "test_mean": 0.6, "test_median": 0.6, "test_std": 0.015726557587574318}
+{"alpha": 0.9, "train_mean": 0.5901462663587373, "train_median": 0.5950731331793687, "train_std": 0.00806809700173914, "test_mean": 0.6, "test_median": 0.6, "test_std": 0.004361762289887428}
+{"alpha": 0.9, "train_mean": 0.5964588144726714, "train_median": 0.596612779060816, "train_std": 0.00030792917628943425, "test_mean": 0.5986206896551723, "test_median": 0.6, "test_std": 0.002758620689655178}
+{"alpha": 0.9, "train_mean": 0.5946112394149345, "train_median": 0.596612779060816, "train_std": 0.004504615500639794, "test_mean": 0.5779310344827586, "test_median": 0.593103448275862, "test_std": 0.02667459255974306}
+{"alpha": 0.9, "train_mean": 0.5886066204772902, "train_median": 0.5912240184757506, "train_std": 0.007198564882254615, "test_mean": 0.583448275862069, "test_median": 0.5862068965517241, "test_std": 0.010321813480755674}
