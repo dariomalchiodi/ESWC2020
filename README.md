@@ -1,4 +1,4 @@
-# ESWC2020
+# MDAI2020
 Code and data for the paper "Classifying Candidate Axioms via Dimensionality Reduction Techniques"
 
 
